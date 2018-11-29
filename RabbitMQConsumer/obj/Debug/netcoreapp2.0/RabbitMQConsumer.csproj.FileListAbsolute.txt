@@ -1,0 +1,14 @@
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQConsumer.deps.json
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQConsumer.runtimeconfig.json
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQConsumer.runtimeconfig.dev.json
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQConsumer.dll
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.csprojAssemblyReference.cache
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.AssemblyInfoInputs.cache
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.AssemblyInfo.cs
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQConsumer.pdb
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQDataModel.dll
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\bin\Debug\netcoreapp2.0\RabbitMQDataModel.pdb
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.csproj.CopyComplete
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.dll
+c:\users\feyyaz.acet\Source\Repos\MassTransitWithRabbitMQ\RabbitMQConsumer\obj\Debug\netcoreapp2.0\RabbitMQConsumer.pdb
